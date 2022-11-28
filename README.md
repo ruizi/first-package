@@ -2,6 +2,8 @@
 
 A simple React component that counts from 0 - 100 and then resets back to 0. This runs for infinity and yes, this is not meant to be functional in any way.
 
+NPM repo : https://www.npmjs.com/package/first-package-rui-1
+
 ## How to use
 
 Clone this repo to your local computer, then run:
